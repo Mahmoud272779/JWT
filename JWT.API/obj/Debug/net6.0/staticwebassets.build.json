@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jR2caH7YCG2b9uMMixh+jmJ0SmRg16Qr/jkzKezx5oc=",
+  "Source": "JWT.API",
+  "BasePath": "_content/JWT.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
